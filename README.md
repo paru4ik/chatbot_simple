@@ -13,7 +13,7 @@
 
 Для запуска необходимо выполнить команду:
 ```
-pip install requariments.txt
+pip install requirements.txt
 ```
 запуск 
 ```
